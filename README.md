@@ -48,7 +48,7 @@
 
 ## 🚀 About Me
 
-I am a **15-year-old generalist programmer** and open-source enthusiast. I've been writing code for over 4 years, exploring multiple ecosystems and breaking things to learn how they work (not literally).
+I am a **15-year-old generalist programmer**. I've been writing code for over 4 years, exploring multiple ecosystems and breaking things apart to learn how they work (not literally).
 
 ### 🛠️ Languages I have the experience of:
 
