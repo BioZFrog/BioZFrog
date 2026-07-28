@@ -48,16 +48,16 @@
 
 ## 🚀 About Me
 
-I am a **15-year-old generalist programmer**. I've been writing code for over 4 years, exploring multiple ecosystems and breaking things apart to learn how they work (not literally).
+I am a **15-year-old generalist programmer**. I've been coding for over 4 years, exploring different technologies and breaking things apart to understand how they work (not literally).
 
-### 🛠️ Languages I have the experience of:
+### 🛠️ Programming Languages I know:
 
 - Python,
 - Dart,
 - C#,
 - C++,
-- JavaScript,
 - C,
+- JavaScript,
 - Java,
 - HTML/CSS.
 
@@ -65,8 +65,8 @@ I am a **15-year-old generalist programmer**. I've been writing code for over 4 
 
 ### 📂 What I've Built
 
-- **📱 Mobile App Development**: Architected and published a live native application using Dart on the **Google Play Store**.
-- **🕹️ Game Development**: Spent years building learning in **Unity (C#)**, alongside single terminal-based games such as _Buckshot Roulette_ and a 2D Space Shooter.
+- **📱 Mobile App Development**: Designed, developed, and published a native mobile application in Dart on the **Google Play Store**.
+- **🕹️ Game Development**: Spent years learning and building games in **Unity (C#)**, including terminal-based games such as _Buckshot Roulette_ and a 2D Space Shooter.
 - **🌐 Web Development**: Built clean interfaces and platforms, including a personal _LinkTree clone (LinkBranch)_ (not hosted yet).
 - **🤖 Scripting & Desktop Tools**: Programmed a custom _Jarvis-style desktop AI assistant_ along with lightweight cross-platform _GUI music player_.
 
@@ -74,6 +74,6 @@ I am a **15-year-old generalist programmer**. I've been writing code for over 4 
 
 ### 📈 Philosophy
 
-I focus on **Project-Based Learning**. I don't build projects to strengthen my documentation roots; I build them to solve real-world problems and automate my daily life with programming conveniences.
+I focus on **Project-Based Learning**. I don't build projects just to showcase my skills or improve my documentation. I build them to solve real-world problems and automate every day task with programming conveniences.
 
 </td>
