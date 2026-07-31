@@ -1,79 +1,53 @@
-<td valign="top" width="100%">
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains&pause=1000&color=FFFFFF&size=50&width=435&center=true&vCenter=true&lines=Hello%2C+World!">
+</p>
 
-<pre style="white-space: pre; font-size: 6.8px; line-height: 1.1; font-family: monospace;">
-                                  %@@@@@@@@                __       __                  __              __     
-                                @%%@@@@@@@@@@@            /  \     /  |                /  |            /  | 
-                               @@@@@@@@@@@@@@@%           $$  \   /$$ |__    __    __ _$$ |_    ______ $$ |____   ______ 
-                              @@@@@@@%%@@@@@@@@           $$$  \ /$$$ /  |  /  |  /  / $$   |  /      \$$      \ /      \
-                              @@@@@@%%#%%@@@@@@           $$$$  /$$$$ $$ |  $$ |  $$/$$$$$$/   $$$$$$  $$$$$$$  |$$$$$$  |
-                              @@%%%#%%##%%%@@@@           $$ $$ $$/$$ $$ |  $$ |  /  | $$ | __ /    $$ $$ |  $$ |/    $$ |
-                              %@#@@@@@@@@@@@#%            $$ |$$$/ $$ $$ \__$$ |  $$ | $$ |/  /$$$$$$$ $$ |__$$ /$$$$$$$ |
-                              ###@@@@@@@@@@@%*            $$ | $/  $$ $$    $$/   $$ | $$  $$/$$    $$ $$    $$/$$    $$ |
----:::...:=-:                  *#@@@@@@@@@@@@             $$/      $$/ $$$$$$__   $$ |  $$$$/  $$$$$$$/$$$$$$$/  $$$$$$$/ 
-++===-=-=+=-==.:-=:.+*-:--=     #@@@@@@@@@@@@                               /  \__$$ |      
- +++++==*#+*#=:=+=-*++#*=-:-+*#*+%@@@@%*#@@@%*              __       __      $$    $$/      __               ______       
-      +++%*+%*=+#+=#+===*#*#*-++#@@@@@%*+-=%%#             /  \     /  |      $$$$$$/      /  |             /      \
-         *%+#*=*%*=*##+-===*#%*+*%@@@@@@@#+-::             $$  \   /$$ |__    __  _______ _$$ |_    ______ /$$$$$$  ______
-          #%#%+*%#==+**##+==++*##%@@@@@@%@%*+-:--=        $$$  \ /$$$ /  |  /  |/       / $$   |  /      \$$ |_ $$/      \
-          ##%#%+##*=---=####=----=*%@@@@@@@%*+--:===      $$$$  /$$$$ $$ |  $$ /$$$$$$$/$$$$$$/   $$$$$$  $$   |  $$$$$$  |
-           %%##*++###*+==-+#*****+++==+*#%%#*+=:--:::     $$ $$ $$/$$ $$ |  $$ $$      \  $$ | __ /    $$ $$$$/   /    $$ |
-                +=-==*###=---=++=#@@#**+=-..:--::++=..    $$ |$$$/ $$ $$ \__$$ |$$$$$$  | $$ |/  /$$$$$$$ $$ |   /$$$$$$$ |
-                ##**-:-=*#-=*+=--=+++**##*+=-...:::==-=   $$ | $/  $$ $$    $$//     $$/  $$  $$/$$    $$ $$ |   $$    $$ |
-                ==*--==*###=---=++=#@@#**+=-..:--::++=..  $$/      $$/ $$$$$$/ $$$$$$$/    $$$$/  $$$$$$$/$$/     $$$$$$$/ 
-                #*=-=****=-==-=-=###***#*+++=-=-:...:..:
-                *#*===-=*#*++=---+*####*++++++=--:..---
-                ===###=:--**###*==+=====+*+++++=-:::....             
-                **+==*#*===--+*#####**+==+==+++++=-:::=-:         __   __   __   __   __                    ___  __ 
-                =*##--=***#*-:-==+**####%#*+*+++++=--::..        |__) |__) /  \ / _` |__)  /\   |\/|  |\/| |__  |__)
-                +-==**+=--+##*++===--===*##%%%%#++++=-::..       |    |  \ \__/ \__> |  \ /~~\  |  |  |  | |___ |  \
-               =**+=+*##=:--=****###*+++==+**#%#++++=--::.-
-               ==+*#*=-=#**+-==-::=*###%%#%%***++++++==--::=        --------------------------------------------
-               **--=+*=-=+**##*+--:::--+#%%%%%*= ++++++==---         __   ___       ___       __   __   ___  __ 
-               =+*====##+=--=**#####*=-+++***+-+ *+++**++===        |  \ |__  \  / |__  |    /  \ |__) |__  |__)
-               +==**#*=*##*=====++++##%%%##*+=*+ #+++***++==        |__/ |___  \/  |___ |___ \__/ |    |___ |  \
-              =+*+--+#*==+#####+++===+**##**#*-    +++***++           
-              =-=**---+#*====+*#####%%%%%##++-+      ++**
-             =++==+#*+=+*##*+=====+***#***++#*=
-             =-=*+-=+**##*+*#%%%#######%%%#+=-                                 _____  ________
-             +=--+*=--:=+#%#*==***###****++==+                                / __  \|\   ____\
-              ++=-=**+=::--=+##*#%%%###%%%#*+-                               |\/_|\  \ \  \___|_   
-               +*+=-+****+====+**#**+++++=--==                               \|/ \ \  \ \_____  \ 
-                 +*+=--=++***###*#*+=+**++**+                                     \ \  \|____|\  \ 
-                  ***=----=--=+#########*+=--                                      \ \__\____\_\  \ 
-                 *++*****++++++++++======+**                                        \|__|\_________\
-                  ++********###########**++
-</pre>
+<p align="center">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+<img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+<img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+</p>
 
-<br>
+<p align="center">
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+</p>
+<hr>
 
-## 🚀 About Me
+```bash
+$ whoami
+generalist_programmer
 
-I am a **15-year-old generalist programmer**. I've been coding for over 4 years, exploring different technologies and breaking things apart to understand how they work (not literally).
+$ neofetch --profile
+🙋‍♂️ Full Name: Mujtaba Mustafa
+💡  Age: 15
+📚 Education Status: IGCSE (01)
+⏳  Exp: 4+ Years Coding
+🚀 Focus: Build. Break. Automate.
 
-### 🛠️ Programming Languages I know:
+$ .\Developments.ps1
+[Game Development]
+[Web Development]
+[Mobile Development]
 
-- Python,
-- Dart,
-- C#,
-- C++,
-- C,
-- JavaScript,
-- Java,
-- HTML/CSS.
+$ tail .\philosophy.txt
+"Build software to solve real-world problems and automate everything."
 
----
+$ addition-technologies --help 
+Usage: biozfrog [OPTIONS] COMMAND [ARGS]...
 
-### 📂 What I've Built
-
-- **📱 Mobile App Development**: Designed, developed, and published a native mobile application in Dart on the **Google Play Store**.
-- **🕹️ Game Development**: Spent years learning and building games in **Unity (C#)**, including terminal-based games such as _Buckshot Roulette_ and a 2D Space Shooter.
-- **🌐 Web Development**: Built clean interfaces and platforms, including a personal _LinkTree clone (LinkBranch)_ (not hosted yet).
-- **🤖 Scripting & Desktop Tools**: Programmed a custom _Jarvis-style desktop AI assistant_ along with lightweight cross-platform _GUI music player_.
-
----
-
-### 📈 Philosophy
-
-I focus on **Project-Based Learning**. I don't build projects just to showcase my skills or improve my documentation. I build them to solve real-world problems and automate every day task with programming conveniences.
-
-</td>
+Options:
+  --help  Show this message and exit.
+  
+Commands:
+  Pytorch             Machine Learning Python Library
+  OpenCV              Computer Vision Python Library
+  NumPy               Numeric Python Library
+  Matplotlib          Visualization Python Library
+  Pygame              Game-making Python Library
+  Unity               Game Engine
+  Git                 Version Control tool
+```
