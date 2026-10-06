@@ -23,7 +23,7 @@ generalist_programmer
 
 $ neofetch --profile
 🙋‍♂️ Full Name: Mujtaba Mustafa
-💡  Age: 15
+💡  Age: 16
 📚 Education Status: IGCSE (o1)
 ⏳  Exp: 4+ Years Coding
 🚀 Focus: Build. Break. Automate.
